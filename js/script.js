@@ -73,9 +73,17 @@ function fecthBookMarks() {
         // Create bookmarks array in localStorage
         bookmarks = [
             {
+                name: 'Google',
+                url: 'https://google.com',
+            },
+            {
+                name: 'Github',
+                url: 'https://github.com',
+            },
+            {
                 name: 'Jon Github',
                 url: 'https://jonnathanriquelmo.github.io',
-            }
+            },
         ];
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
     }
