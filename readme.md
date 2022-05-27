@@ -31,7 +31,7 @@
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify">
-A app that allows users to save bookmarks in browser, and stores in the localStorage. Based on a <a href="https://zerotomastery.io/" target="_blank">ZTM</a> JavaScript course.
+A app that allows users to save bookmarks in browser, and stores in the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage" target="_blank">Window.localStorage</a>. Based on a <a href="https://zerotomastery.io/" target="_blank">ZTM</a> JavaScript course.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
